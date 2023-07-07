@@ -1,0 +1,88 @@
+[
+  [
+    { 
+      "index": "1-ClickBankUniversity",
+      "name": "ClickBank University 2.0",
+      "description":[
+        "Avg $/sale: $219.57",
+        "Initial $/sale: $65.18",
+        "Avg Rebill Total: $163.77",
+        "Grav: 56.45",
+        "Cat: Affiliate Marketing"
+      ],
+      "url": "https://clickbankuniversity.com/go/offer/",
+      "iconCss": "background-color: #349af1; color: #fff;",
+      "icon": "fas fa-graduation-cap fa-4x"
+    },
+    { 
+      "index": "2-TedWoodworking",
+      "name": "Ted's Woodworking",
+      "description":[
+        "Avg $/sale: $52.70",
+        "Stats: Initial $/sale: $52.70",
+        "Avg Rebill Total: $107.59",
+        "Grav: 186.72",
+        "Cat: Crafts & Hobbies"
+      ],
+      "url": "https://www.tedswoodworking.com/new/vsl",
+      "iconCss": "background-color: #28a745; color: #fff",
+      "icon": "fas fa-tree fa-4x"
+    },
+    {
+      "index":"3-Leptitox",
+      "name": "Leptitox",
+      "description":[
+        "Avg $/sale: $68.43",
+        "Stats: Initial $/sale: $68.43",
+        "Avg Rebill Total: $0.00",
+        "Grav: 554.32",
+        "Cat: Dietary Supplements"
+      ],
+      "url": "https://science.leptitox.com/?hop=0",
+      "iconCss": "background-color: #dc3545; color: #fff",
+      "icon": "fas fa-running fa-4x"
+    },
+    {
+      "index":"4-ManifestationMagic",
+      "name": "Manifestation Magic",
+      "description":[
+        "Avg $/sale: $39.11",
+        "Stats: Initial $/sale: $38.95",
+        "Avg Rebill Total: $47.32",
+        "Grav: 157.29",
+        "Cat: Spirituality"
+      ],
+      "url": "https://manifestationmagic.com/go/index.php",
+      "iconCss": "background-color: #17a2b8; color: #fff",
+      "icon": "fas fa-praying-hands fa-4x"
+    },
+    {
+      "index":"5-HisSecretObsession",
+      "name": "His Secret Obsession",
+      "description":[
+        "Avg $/sale: $46.11",
+        "Stats: Initial $/sale: $46.11",
+        "Avg Rebill Total: $0.00",
+        "Grav: 197.19",
+        "Cat: Self-Help"
+      ],
+      "url": "https://hissecretobsession.com/freepresentation.php",
+      "iconCss": "background-color: #ffc107; color: #fff",
+      "icon": "fas fa-binoculars fa-4x"
+    },
+    {
+      "index": "6-Project Profit Academy",
+      "name": "Project Profit Academy",
+      "description": [
+        "Avg $/sale: $1,997.00",
+        "Stats: Initial $/sale: $1,997.0",
+        "Avg Rebill Total: $0.00",
+        "Grav: 2.26",
+        "Cat: Affiliate Marketing"
+      ],
+      "url": "https://warriorplus.com/aff-offer/o/q6bctp",
+      "iconCss":"background-color: #000; color: #fff",
+      "icon": "fas fa-hand-holding-usd fa-4x"
+    }
+  ]
+]

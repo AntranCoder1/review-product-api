@@ -1,0 +1,90 @@
+[
+  {
+    "index": 1,
+    "title": "Super Affiliate System",
+    "image": "{{apiUrl}}uploads/images/affiliate-info1.png",
+    "video": "https://player.vimeo.com/video/270819476?muted=1&autoplay=1&&title=0&byline=0&wmode=transparent&autopause=0",
+    "affiliateLink": "https://johncrestani.com/jvs/",
+    "affiliate": 1
+  },
+  {
+    "index": 2,
+    "title": "Project Profit Academy",
+    "image": "{{apiUrl}}uploads/images/affiliate-info2.png",
+    "video": "https://app-aurora.com/Videos/2228751582_Autowebby_yeahhhh.mp4",
+    "affiliateLink": "https://warriorplus.com/aff-offer/o/q6bctp",
+    "affiliate": 1
+  },
+  {
+    "index": 3,
+    "title": "Passive Income System",
+    "image": "{{apiUrl}}uploads/images/affiliate-info3.png",
+    "video": "https://fast.wistia.com/embed/medias/7sohrhhstn",
+    "affiliateLink": "https://warriorplus.com/aff-offer/o/dg239s",
+    "affiliate": 1
+  },
+  {
+    "index": 4,
+    "title": "SimpleWiFiProfits",
+    "image": "{{apiUrl}}uploads/images/affiliate-info4.png",
+    "video": "https://simplewifiprof-webinar.s3.amazonaws.com/Partners/Internal/SWP2020_Internal.mp4",
+    "affiliateLink": "https://www.digitalwebclass.com/swpaffiliatedetails37318748",
+    "affiliate": 1
+  },
+  {
+    "index": 5, 
+    "title":"CB Passive Income",
+    "image":"{{apiUrl}}uploads/images/affiliate-info5.png",
+    "video":"https://player.vimeo.com/external/345670022.hd.mp4?s=3fbbe487a88b873bfa112d2a2fcafd71762fce5c&profile_id=174",
+    "affiliateLink":"https://cbpassiveincomeelite.com/affiliateprogram?",
+    "affiliate": 2
+  },
+  {
+    "index": 6,
+    "title": "Growth Commander",
+    "image": "{{apiUrl}}uploads/images/affiliate-info6.png",
+    "video": "https://growthcommander.s3.amazonaws.com/Live+CB+Webinar+720p.mp4",
+    "affiliateLink":"https://docs.google.com/document/d/1wEUcf5VH7eOVPLiZgZn0Fk_2hhUSFIRLiFZyDOuwezg/edit?usp=sharing",
+    "affiliate":2
+  },
+  {
+    "index": 7,
+    "title": "Membership Method",
+    "image": "{{apiUrl}}uploads/images/affiliate-info7.png",
+    "video": "https://fast.wistia.net/embed/iframe/zyd61t3oq0?autoPlay=0&wmode=transparent",
+    "affiliateLink": "https://secure.membershipmethod.com/partner-program",
+    "affiliate": 2
+  },
+  {
+    "index": 8,
+    "title": "Six Figure",
+    "image": "{{apiUrl}}uploads/images/affiliate-info8.png",
+    "video": "",
+    "affiliateLink": "http://www.sixfigurewebinars.com/sfsa-affiliates",
+    "affiliate":2
+  },
+  {
+    "index": 9,
+    "title": "Partnership To Success",
+    "image": "{{apiUrl}}uploads/images/affiliate-info9.png",
+    "video": "https://s3.amazonaws.com/johnwebinars/p2s/ASAS997-2-FINAL.mp4",
+    "affiliateLink": "https://partnershiptosuccess.com/top-jvs/",
+    "affiliate": 2
+  },
+  {
+    "index": 10,
+    "title": "Commission Hero",
+    "image": "{{apiUrl}}uploads/images/affiliate-info10.png",
+    "video": "https://www.youtube.com/embed/-SEWU7N9xFg?rel=0&controls=0&showinfo=0&autoplay=1",
+    "affiliateLink": "https://tinyurl.com/y56k3b3y",
+    "affiliate": 2
+  },
+  {
+    "index": 11,
+    "title": "1K A Day Fast Track",
+    "image": "{{apiUrl}}uploads/images/affiliate-info11.png",
+    "video": "",
+    "affiliateLink":"https://affiliates.thefasttracks.com/jv-home",
+    "affiliate": 2
+  }
+]

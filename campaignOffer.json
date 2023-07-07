@@ -1,0 +1,128 @@
+[
+  {
+    "index": "1-ambassador-program",
+    "name": "Ambassador Program",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Affiliate Marketing"
+    ],
+    "url": "https://campaigns.lanciapp.com/ambassador-program",
+    "iconCss":"background-color: #349af1; color: #fff;",
+    "icon": "fas fa-desktop fa-4x"
+  },
+  {
+    "index": "2-partnership",
+    "name": "Partnership",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Crafts & Hobbies"
+    ],
+    "url": "https://campaigns.lanciapp.com/partnership",
+    "iconCss":"background-color: #28a745; color: #fff",
+    "icon": "fas fa-praying-hands fa-4x"
+  },
+  {
+    "index": "3-commission",
+    "name": "Commission",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Dietary Supplements"
+    ],
+    "url": "https://campaigns.lanciapp.com/commission",
+    "iconCss":"background-color: #dc3545; color: #fff",
+    "icon": "fas fa-users fa-4x"
+  },
+  {
+    "index": "4-affiliate",
+    "name": "Affiliate",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Spirituality"
+    ],
+    "url": "https://campaigns.lanciapp.com/affiliate",
+    "iconCss":"background-color: #ffc107; color: #fff",
+    "icon": "fas fa-share-alt fa-4x"
+  },
+  {
+    "index": "5-passive",
+    "name": "Passive",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Self-Help"
+    ],
+    "url": "https://campaigns.lanciapp.com/passive",
+    "iconCss":"background-color: #349af1; color: #fff;",
+    "icon": "fas fa-atom fa-4x"
+  },
+  {
+    "index": "6-digital",
+    "name": "Digital",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Spirituality"
+    ],
+    "url": "https://campaigns.lanciapp.com/digital",
+    "iconCss":"background-color: #28a745; color: #fff",
+    "icon": "fab fa-digital-ocean fa-4x"
+  },
+  {
+    "index": "7-ecommerce",
+    "name": "Ecommerce",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Self-Help"
+    ],
+    "url": "https://campaigns.lanciapp.com/ecommerce",
+    "iconCss":"background-color: #dc3545; color: #fff",
+    "icon": "fas fa-briefcase fa-4x"
+  },  
+  {
+    "index": "8-fast-tracks",
+    "name": "Fast Tracks",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Affiliate Marketing"
+    ],
+    "url": "https://campaigns.lanciapp.com/fast-tracks",
+    "iconCss":"background-color: #ffc107; color: #fff",
+    "icon": "fas fa-asterisk fa-4x"
+  },
+  {
+    "index": "8-figure",
+    "name": "Figure",
+    "description": [
+      "Avg $/sale: $0.00",
+      "Stats: Initial $/sale: $0.00",
+      "Avg Rebill Total: $0.00",
+      "Grav: 0.00",
+      "Cat: Dietary Supplements"
+    ],
+    "url": "https://campaigns.lanciapp.com/figure",
+    "iconCss":"background-color: #000; color: #fff",
+    "icon": "fas fa-street-view fa-4x"
+  }
+]
